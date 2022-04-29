@@ -1,7 +1,7 @@
 import React from 'react'
 
 function AlertBox() {
-  return <div>AlertBox</div>
+  return <div>AlertBoxes</div>
 }
 
 export default AlertBox
