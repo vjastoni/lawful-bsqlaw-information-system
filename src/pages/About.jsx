@@ -1,28 +1,26 @@
-import React from "react";
-import NavigationBar from "./NavigationBar";
+import React from 'react'
 
 function About() {
   return (
     <div>
-      <NavigationBar />
-      <div className="min-h-screen flex flex-col items-center content-center justify-center font-Lora ">
-        <div className="self-start ml-[23%] text-5xl text-maroon font-bold">
+      <div className='min-h-screen flex flex-col items-center content-center justify-center font-Lora '>
+        <div className='self-start ml-[23%] text-5xl text-maroon font-bold'>
           <h2>About</h2>
         </div>
-        <div className="w-5/12 text-justify text-2xl">
+        <div className='w-5/12 text-justify text-2xl'>
           <p>
-            {" "}
-            <span className="font-bold">
+            {' '}
+            <span className='font-bold'>
               Berberabe Santos & Quiñones &nbsp;
             </span>
             or simply &nbsp;
-            <span className="font-bold">"BSQ"</span>
+            <span className='font-bold'>"BSQ"</span>
             &nbsp; was founded by three law partners, Dickson, Gilbert
             and Bayan, who worked together at a major Makati law firm.
             After a combined twenty five years of legal practice, they
             decided to establish a law firm, more grounded on their
             shared values and a deeper concern for their clients.
-          </p>{" "}
+          </p>{' '}
           <br />
           <p>
             BSQ is engaged in general law practice, which enables it
@@ -33,7 +31,7 @@ function About() {
             Compliance and Reorganization, Labor and Employment, Civil
             and Commercial Claims, and Criminal Prosecution and
             Defense.
-          </p>{" "}
+          </p>{' '}
           <br />
           <p>
             BSQ distinguishes itself from other law firms by its
@@ -41,7 +39,7 @@ function About() {
             legal solutions. BSQ also cultivates deeper and enduring
             relationships with its clients, who are considered
             constant partners in mutual growth and development.
-          </p>{" "}
+          </p>{' '}
           <br />
           <p>
             BSQ believes that the practice of our profession should be
@@ -52,7 +50,7 @@ function About() {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default About;
+export default About
