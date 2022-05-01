@@ -1,13 +1,16 @@
 {
-  "files": {
-    "main.css": "/bsqlaw/static/css/main.351e1e2e.css",
-    "main.js": "/bsqlaw/static/js/main.1a5e99cd.js",
-    "index.html": "/bsqlaw/index.html",
-    "main.351e1e2e.css.map": "/bsqlaw/static/css/main.351e1e2e.css.map",
-    "main.1a5e99cd.js.map": "/bsqlaw/static/js/main.1a5e99cd.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.351e1e2e.css",
-    "static/js/main.1a5e99cd.js"
-  ]
+  "main.css": "/rodiemertomi.github.io/bsqlawful/static/css/main.ff7f638d.chunk.css",
+  "main.js": "/rodiemertomi.github.io/bsqlawful/static/js/main.6f333849.chunk.js",
+  "main.js.map": "/rodiemertomi.github.io/bsqlawful/static/js/main.6f333849.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/rodiemertomi.github.io/bsqlawful/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/rodiemertomi.github.io/bsqlawful/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.2ded161d.chunk.js": "/rodiemertomi.github.io/bsqlawful/static/js/2.2ded161d.chunk.js",
+  "static/js/2.2ded161d.chunk.js.map": "/rodiemertomi.github.io/bsqlawful/static/js/2.2ded161d.chunk.js.map",
+  "runtime~main.js": "/rodiemertomi.github.io/bsqlawful/static/js/runtime~main.4b5de9ed.js",
+  "runtime~main.js.map": "/rodiemertomi.github.io/bsqlawful/static/js/runtime~main.4b5de9ed.js.map",
+  "static/media/logo.svg": "/rodiemertomi.github.io/bsqlawful/static/media/logo.06e73328.svg",
+  "static/css/main.ff7f638d.chunk.css.map": "/rodiemertomi.github.io/bsqlawful/static/css/main.ff7f638d.chunk.css.map",
+  "index.html": "/rodiemertomi.github.io/bsqlawful/index.html",
+  "precache-manifest.69c55ba45e60526c654b922899f5f1a0.js": "/rodiemertomi.github.io/bsqlawful/precache-manifest.69c55ba45e60526c654b922899f5f1a0.js",
+  "service-worker.js": "/rodiemertomi.github.io/bsqlawful/service-worker.js"
 }
