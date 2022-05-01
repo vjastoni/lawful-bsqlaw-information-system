@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bsqlaw/static/css/main.351e1e2e.css",
+    "main.js": "/bsqlaw/static/js/main.1a5e99cd.js",
+    "index.html": "/bsqlaw/index.html",
+    "main.351e1e2e.css.map": "/bsqlaw/static/css/main.351e1e2e.css.map",
+    "main.1a5e99cd.js.map": "/bsqlaw/static/js/main.1a5e99cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351e1e2e.css",
+    "static/js/main.1a5e99cd.js"
+  ]
+}
