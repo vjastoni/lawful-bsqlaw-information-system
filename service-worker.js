@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rodiemertomi.github.io/bsqlawful/precache-manifest.69c55ba45e60526c654b922899f5f1a0.js"
+  "/bsqlawful/precache-manifest.e6ebd58e18b988e4329152fdd8902ed0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rodiemertomi.github.io/bsqlawful/index.html", {
+workbox.routing.registerNavigationRoute("/bsqlawful/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
