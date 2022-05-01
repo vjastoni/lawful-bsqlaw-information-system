@@ -1,16 +1,13 @@
 {
-  "main.css": "/bsqlawful/static/css/main.ff7f638d.chunk.css",
-  "main.js": "/bsqlawful/static/js/main.6f333849.chunk.js",
-  "main.js.map": "/bsqlawful/static/js/main.6f333849.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/bsqlawful/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/bsqlawful/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.2ded161d.chunk.js": "/bsqlawful/static/js/2.2ded161d.chunk.js",
-  "static/js/2.2ded161d.chunk.js.map": "/bsqlawful/static/js/2.2ded161d.chunk.js.map",
-  "runtime~main.js": "/bsqlawful/static/js/runtime~main.05a3f762.js",
-  "runtime~main.js.map": "/bsqlawful/static/js/runtime~main.05a3f762.js.map",
-  "static/media/logo.svg": "/bsqlawful/static/media/logo.06e73328.svg",
-  "static/css/main.ff7f638d.chunk.css.map": "/bsqlawful/static/css/main.ff7f638d.chunk.css.map",
-  "index.html": "/bsqlawful/index.html",
-  "precache-manifest.e6ebd58e18b988e4329152fdd8902ed0.js": "/bsqlawful/precache-manifest.e6ebd58e18b988e4329152fdd8902ed0.js",
-  "service-worker.js": "/bsqlawful/service-worker.js"
+  "files": {
+    "main.css": "/bsqlaw/static/css/main.351e1e2e.css",
+    "main.js": "/bsqlaw/static/js/main.1a5e99cd.js",
+    "index.html": "/bsqlaw/index.html",
+    "main.351e1e2e.css.map": "/bsqlaw/static/css/main.351e1e2e.css.map",
+    "main.1a5e99cd.js.map": "/bsqlaw/static/js/main.1a5e99cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351e1e2e.css",
+    "static/js/main.1a5e99cd.js"
+  ]
 }
